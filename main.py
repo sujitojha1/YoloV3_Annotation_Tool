@@ -54,7 +54,7 @@ class LabelTool():
         self.parent.resizable(width = FALSE, height = FALSE)
 
         # initialize global state
-        self.imageDir = ''
+        self.imageDir = 'kung_fu_panda_raw'
         self.imageList= []
         self.egDir = ''
         self.egList = []

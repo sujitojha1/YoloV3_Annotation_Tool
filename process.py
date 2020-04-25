@@ -13,7 +13,7 @@ import glob, os, sys
 
 
 def process(current_dir):
-    #current_dir = 'Images/full_catAndDog'
+    current_dir = 'Images/kung_fu_panda_raw'
 
     # Percentage of images to be used for the test set
     percentage_test = 10;
